@@ -19,9 +19,10 @@ pole(a, b)
 
 import math
 
+'''
 def pole(x):
     print(f"pole kola o promieniu {x} wynosi: {math.pi*math.pow(x,2)}")
     pass
 
 print(pole(5))
-
+'''
