@@ -11,4 +11,4 @@ inf(nick, wiek, wzrost)
 def kom(nick: str, wiek: int, wzrost: float) -> str:
     return(f"{nick}, {wiek} lat, {wzrost:.2f} m wzrostu")
 
-print(kom("xenkii :)", 13, 1.65436))
+print(kom("xenkii :)", 13, 1.65436)) 
